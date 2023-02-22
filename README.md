@@ -6,3 +6,7 @@
 
 
 ![Kzjn10's User Stats](https://github-readme-stats.vercel.app/api?username=kzjn10&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<h4 align="center">Top languages</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzjn10&langs_count=10&theme=tokyonight&layout=compact" alt="kzjn10 :: Top Langs" /></p>
